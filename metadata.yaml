@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41634'
     url: http://www.gutenberg.org/2009/agents/41634
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42333#The-Cleverdale-Mystery-or-The-Machine-and-its-WheelsA-Story-of-American-Life
 gutenberg_issued: '2013-03-14'
 gutenberg_type: Text
 identifiers:
