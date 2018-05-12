@@ -1,0 +1,27 @@
+_repo: The-Cleverdale-Mystery-or-The-Machine-and-its-WheelsA-Story-of-American-Life_42333
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42333-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilkins, W. A.
+    gutenberg_agent_id: '41634'
+    url: http://www.gutenberg.org/2009/agents/41634
+description: ''
+gutenberg_issued: '2013-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Fiction'
+- !lcsh 'Political corruption -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: 'The Cleverdale Mystery; or, The Machine and Its Wheels: A Story of American
+  Life'
+url: http://www.gutenberg.org/ebooks/42333
